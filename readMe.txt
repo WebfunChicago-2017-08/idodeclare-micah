@@ -1,0 +1,1 @@
+I Do Declare Javascript assignment
